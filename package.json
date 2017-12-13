@@ -1,0 +1,30 @@
+{
+  "name": "ide-go",
+  "main": "./lib/main",
+  "version": "0.0.1",
+  "description": "Go language support for Atom-IDE.",
+  "repository": "https://github.com/atom/ide-java",
+  "license": "MIT",
+  "scripts": {
+    "test": "atom --test test"
+  },
+  "engines": {
+    "atom": ">=1.24.0"
+  },
+  "atomTestRunner": "./test/runner",
+  "dependencies": {
+    "atom-languageclient": "^0.7.3",
+    "decompress": "^4.2.0"
+  },
+  "devDependencies": {
+    "atom-mocha-test-runner": "^1.2.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "mocha": "^3.4.2",
+    "mocha-appveyor-reporter": "^0.4.0",
+    "mocha-junit-and-console-reporter": "^1.6.0"
+  },
+  "enhancedScopes": [
+    "source.go"
+  ]
+}
