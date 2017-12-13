@@ -1,5 +1,5 @@
 # IDE-Go package
-[![macOS Build Status](https://travis-ci.org/atom/ide-go.svg?branch=master)](https://travis-ci.org/atom/ide-go) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/txnainm2sfa365pi?svg=true)](https://ci.appveyor.com/project/Atom/ide-go/branch/master) [![Dependency Status](https://david-dm.org/atom/ide-go.svg)](https://david-dm.org/atom/ide-go)
+[![macOS Build Status](https://travis-ci.org/atom/ide-go.svg?branch=master)](https://travis-ci.org/atom/ide-go) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/kghsin0366qp5u4m/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/ide-go/branch/master) [![Dependency Status](https://david-dm.org/atom/ide-go.svg)](https://david-dm.org/atom/ide-go)
 
 Go language support for Atom-IDE, powered by the [Go Language Server](https://github.com/sourcegraph/go-langserver).
 
