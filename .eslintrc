@@ -1,0 +1,12 @@
+{
+  "env": {
+    "node": true,
+    "es6": true,
+    "browser": true
+  },
+  "globals": {
+      "atom": true,
+      "waitsForPromise": true
+  },
+  "extends": ["standard"]
+}
