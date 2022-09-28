@@ -1,4 +1,5 @@
-# IDE-Go package
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # IDE-Go package
 [![macOS Build Status](https://travis-ci.org/atom/ide-go.svg?branch=master)](https://travis-ci.org/atom/ide-go) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/kghsin0366qp5u4m/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/ide-go/branch/master) [![Dependency Status](https://david-dm.org/atom/ide-go.svg)](https://david-dm.org/atom/ide-go)
 
 Go language support for Atom-IDE, powered by the [Go Language Server](https://github.com/sourcegraph/go-langserver).
